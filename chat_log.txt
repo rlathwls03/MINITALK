@@ -1,0 +1,5 @@
+2: CREATE_CHAT_ROOM:2,1
+2: CHAT_TEXT:2: 1
+1: CHAT_TEXT:1: ㅎㅇㅎㅇ
+2: CHAT_EMOTICON:2:src/images/emoticon2.png
+1: CHAT_EMOTICON:1:src/images/emoticon6.png

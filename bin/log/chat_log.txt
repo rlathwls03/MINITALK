@@ -1,0 +1,301 @@
+CHAT_TEXT:최건희: 야
+CHAT_TEXT:김기현: ??
+CHAT_EMOTICON:최건희:src/images/emoticon6.png
+CHAT_EMOTICON:김기현:src/images/emoticon8.png
+FILE_TRANSFER:IT공과대학 사퇴 공고_1.png
+CHAT_TEXT:2: 1111
+CHAT_EMOTICON:1:src/images/emoticon6.png
+FILE_TRANSFER:IT공과대학 사퇴 공고_1.png
+FILE_TRANSFER:IT공과대학 사퇴 공고_1.png
+CHAT_TEXT:김도엽: ㅎㅇ
+CHAT_TEXT:김기현: ㅎㅇㅎㅇ
+CHAT_EMOTICON:김기현:src/images/emoticon8.png
+FILE_TRANSFER:emoticon8.jfif
+CHAT_TEXT:2: ㅎㅇㅎㅇ
+CHAT_TEXT:1: ㅇㅇㅇ
+CHAT_EMOTICON:1:src/images/emoticon5.png
+CHAT_TEXT:김소진: ㅎㅇㅎㅇ
+CHAT_TEXT:김기현: 안녕 ~
+CHAT_EMOTICON:김소진:src/images/emoticon6.png
+CHAT_EMOTICON:김기현:src/images/emoticon2.png
+FILE_TRANSFER:IT공과대학 사퇴 공고_1.png
+CHAT_TEXT:김기현: 오오 땡큐
+CHAT_TEXT:김소진: ㅎㅇ
+CHAT_TEXT:김기현: ㅎㅎㅇ
+CHAT_EMOTICON:김기현:src/images/emoticon3.png
+CHAT_EMOTICON:김소진:src/images/emoticon9.png
+FILE_TRANSFER:emoticon2.jfif
+CHAT_TEXT:김기현: 오오 땡큐
+CHAT_TEXT:김소진: ㅎㅇ
+CHAT_TEXT:김기현: ㅎㅇㅎㅇ
+CHAT_EMOTICON:김소진:src/images/emoticon4.png
+CHAT_EMOTICON:김소진:src/images/emoticon6.png
+CHAT_TEXT:김기현: ??
+CHAT_TEXT:김기현: ㅎㅇ
+CHAT_TEXT:김기현: ㅇㅇ
+CHAT_TEXT:김소진: 11
+CHAT_TEXT:김기현: ㅇ
+CHAT_TEXT:김소진: ㅇㅇ
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:222: 111야, 안녕
+CHAT_TEXT:111: 222야 뭐해
+CHAT_TEXT:111: ㅎㅇ
+CHAT_TEXT:222: ㅎㅇ
+CHAT_EMOTICON:김소진:src/images/emoticon2.png
+CHAT_EMOTICON:김기현:src/images/emoticon6.png
+CHAT_TEXT:김소진: 빨리왕
+CHAT_TEXT:김기현: 얼른 갈겡!!
+CHAT_TEXT:김기현: 소진이 안녕
+CHAT_TEXT:김소진: 오빠 안뇽
+CHAT_TEXT:김기현: 뭐하구 있엉?
+CHAT_EMOTICON:김소진:src/images/emoticon1.png
+CHAT_EMOTICON:김기현:src/images/emoticon5.png
+FILE_TRANSFER:루피.jpeg
+CHAT_TEXT:김소진: 안녕! (13:35)
+CHAT_TEXT:222: 안녕
+CHAT_TEXT:111: 안녕
+CHAT_TEXT:111: 안녕
+CHAT_TEXT:111: 안녕
+CHAT_TEXT:222: ㅎㅇ
+CHAT_TEXT:111: ㅎㅇ
+CHAT_TEXT:222: ㅎㅇ
+CHAT_TEXT:111: ㅎㅇ
+CHAT_TEXT:222: ㅎㅇ
+CHAT_TEXT:222: 안녕 난 222야
+CHAT_TEXT:222: 안녕 111아
+CHAT_TEXT:111: ㅎㅇ 222
+CHAT_TEXT:111: 안녕 222야
+CHAT_TEXT:222: 하잉~
+CHAT_TEXT:222: ㅎㅇ
+CHAT_TEXT:111: 안뇽
+CHAT_TEXT:111: ㅎㅇ (14:18)
+CHAT_TEXT:111: 안녕 222야 (14:22)
+CHAT_TEXT:111: 222야 하이
+CHAT_TEXT:222: 안녕! 111아
+CHAT_TEXT:111: 111아 오늘 뭐하냐
+CHAT_TEXT:222: 그러게 나 오늘 심심한데 당구치실?
+CHAT_EMOTICON:222:src/images/emoticon4.png
+CHAT_EMOTICON:222:src/images/emoticon8.png
+CHAT_TEXT:김기현: 안녕 쏘!
+CHAT_TEXT:김소진: 안녕 오빠!
+CHAT_TEXT:111: 하잉
+CHAT_TEXT:111: 안녕 222야!
+CHAT_TEXT:111: 반가워!
+CHAT_TEXT:111: 오늘 뭐해? 나 심심한데 당구칠래?
+CHAT_TEXT:222: 오! 나도 오늘 할 거 없는데 ㅎㅎ
+CHAT_TEXT:222: ㄱㄱ
+CHAT_TEXT:111: 하잉
+CHAT_TEXT:111: 하잉
+CHAT_TEXT:111: 반갑습니당
+CHAT_TEXT:111: 이젠 안 잘리낭?
+CHAT_TEXT:111: 근데 왜 나: 이건 표시되는 거야?
+CHAT_TEXT:222: 오늘 심심한데 당구나 치실?
+CHAT_TEXT:111: 당구 몇시에 치실?
+CHAT_TEXT:222: 근데 왜 잘리냐
+CHAT_TEXT:김기현: 안녕 오빠
+CHAT_TEXT:김기현: 오늘 하루 뭐했어?
+CHAT_TEXT:김기현: 언제 일어났엉?
+CHAT_TEXT:김소진: 안녕 소진아!!!
+CHAT_TEXT:111: 222야 오늘 뭐하냐
+CHAT_TEXT:222: 111아 오늘 당구칠래?
+CHAT_TEXT:김소진: 안녕 오빠들
+CHAT_TEXT:남기철: 오 뭔일임
+CHAT_TEXT:김기현: 소진이가 오늘 같이 당구치재
+CHAT_TEXT:김기현: 안녕 쏘야!!
+CHAT_TEXT:김소진: 안뇽 오빠!!
+CHAT_TEXT:김소진: 일어났엉??
+CHAT_TEXT:김소진: 남기철이랑 당구치기로 했엉??
+CHAT_TEXT:111: 하잉 222야
+CHAT_TEXT:222: 안뇽 111아!
+CHAT_TEXT:222: 오늘 뭐해?
+CHAT_TEXT:111: 오늘 프로젝트 구현할 거 있어서 하는 중~~
+CHAT_TEXT:111: 아
+CHAT_TEXT:111: 아 ㄹㅇ?
+CHAT_TEXT:김소진: 안녕 오빠!
+CHAT_TEXT:김기현: 안녕 쏘야!!
+CHAT_TEXT:김기현: 오늘 근로 몇 시까지양??
+CHAT_TEXT:김소진: 오늘 근로 5시 반까지야!!
+CHAT_TEXT:김소진: 오빠 안녕!!
+CHAT_TEXT:김기현: 쏘야 안녕!!
+CHAT_TEXT:김기현: 쏘야 안녕!
+CHAT_TEXT:김소진: 다시 메세지 저장을 해볼게!
+CHAT_TEXT:김기현: 아 이번에 되려나?
+CHAT_TEXT:김소진: 오빠 안녕!!
+CHAT_TEXT:김기현: 소진아 안녕!!
+CHAT_TEXT:김소진: 안녕 오빠!!
+CHAT_TEXT:김기현: 안녕 쏘야!!
+CHAT_TEXT:김소진: 반가오
+CHAT_TEXT:김기현: 나도 반가오
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:222: 111아 안녕
+CHAT_TEXT:111: 222야 반가워!
+CHAT_TEXT:222: 111아 반가워!!
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:222: 111아 안녕
+CHAT_TEXT:222: 반갑다 111아
+CHAT_TEXT:111: 나도 반갑다 222야
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:222: 111아 안녕
+CHAT_TEXT:111: 오늘 뭐하니
+CHAT_TEXT:222: 나 공부해!
+CHAT_TEXT:111: 222야 안녕!
+CHAT_TEXT:222: 111아 안녕!
+CHAT_TEXT:222: 반갑다 111아
+CHAT_TEXT:111: 나도 반갑다 222야
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:222: 111아 안녕
+CHAT_TEXT:222: 111아 반가워
+CHAT_TEXT:111: 222야 반가워
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:222: 111아 안녕
+CHAT_TEXT:222: 111아 반가워
+CHAT_TEXT:111: 222야 반가워
+CHAT_TEXT:김소진: 안녕 오빠들
+CHAT_TEXT:남기철: 안녕 소진아 기현아
+CHAT_TEXT:김기현: 안녕 소진아 기철아
+CHAT_TEXT:김소진: 안녕 오빠!!
+CHAT_TEXT:김기현: 안녕 쏘양!!
+CHAT_EMOTICON:김소진:src/images/emoticon5.png
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:222: 111아 안녕
+CHAT_TEXT:111: 222야 반가워
+CHAT_TEXT:222: 111아 나도 반가워
+CHAT_EMOTICON:111:src/images/emoticon2.png
+CHAT_EMOTICON:111:src/images/emoticon2.png
+CHAT_TEXT:111: 222야 안녕!
+CHAT_TEXT:222: 111아 안녕!!
+CHAT_TEXT:111: 반가워 222야
+CHAT_TEXT:222: 나도 반가워 111아!!!~
+CHAT_EMOTICON:111:src/images/emoticon2.png
+CHAT_EMOTICON:111:src/images/emoticon2.png
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:111: 반갑다!
+CHAT_TEXT:222: 111아 안녕
+CHAT_TEXT:222: 나도 반가워!
+CHAT_EMOTICON:111:src/images/emoticon1.png
+CHAT_EMOTICON:111:src/images/emoticon1.png
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:111: 오늘 뭐해
+CHAT_TEXT:111: 나랑 당구칠래?
+CHAT_TEXT:222: 안녕 111아
+CHAT_TEXT:222: 나 오늘 프젝해야 돼 ㅜ
+CHAT_TEXT:222: 미안
+CHAT_EMOTICON:111:src/images/emoticon3.png
+CHAT_EMOTICON:111:src/images/emoticon3.png
+CHAT_TEXT:111: 222야 안녕
+CHAT_TEXT:222: 111아 안녕!
+CHAT_TEXT:222: 오늘 당구칠래?
+CHAT_TEXT:111: 조아!!
+CHAT_EMOTICON:111:src/images/emoticon1.png
+CHAT_EMOTICON:111:src/images/emoticon1.png
+CHAT_TEXT:111: 222야 하이
+CHAT_TEXT:222: 111아 하이
+CHAT_TEXT:111: ㅎㅇ
+CHAT_TEXT:222: ㅎㅇ
+CHAT_TEXT:111: 오늘은 뭐 먹지
+CHAT_TEXT:김소진: ㅎㅇ
+CHAT_TEXT:김기현: ㅎㅇ
+CHAT_TEXT:김소진: 소진
+CHAT_EMOTICON:김소진:src/images/emoticon7.png
+CHAT_EMOTICON:김소진:src/images/emoticon7.png
+CHAT_EMOTICON:김소진:src/images/emoticon8.png
+CHAT_EMOTICON:김소진:src/images/emoticon8.png
+CHAT_TEXT:김소진: 아
+CHAT_TEXT:111: 안녕
+CHAT_TEXT:222: 오늘 뭐해
+CHAT_EMOTICON:111:src/images/emoticon5.png
+CHAT_TEXT:6: lkkkkkkkkkkkkkkkkk
+CHAT_TEXT:6: 안녕
+CHAT_TEXT:5: 안녕하세요
+CHAT_TEXT:6: uuuuuuuuuuuuuuu
+CHAT_TEXT:김소진: 오늘은 회식있는 날
+CHAT_TEXT:김소진: 안녕 쏘!
+CHAT_TEXT:김기현: 안녕!!
+CHAT_TEXT:김소진: ㅇㅇ
+CHAT_TEXT:김소진: ㅇ
+CHAT_TEXT:김소진: ㅎㅇ
+CHAT_TEXT:김기현: ㅎㅇ
+CHAT_TEXT:김소진: 하이
+CHAT_TEXT:김기현: 하이
+CHAT_TEXT:김소진: ㅎㅇ
+CHAT_TEXT:김기현: 안녕
+CHAT_TEXT:3: 1
+CHAT_TEXT:1: 2
+CHAT_TEXT:김소진: 안녕 오빠~
+CHAT_TEXT:11: g
+CHAT_TEXT:22: ggg
+CHAT_TEXT:11: ddddd
+CHAT_TEXT:22: dddddddd
+CHAT_TEXT:11: ggggggggg
+CHAT_TEXT:22: gggggggggggg
+CHAT_TEXT:김소진: 안녕 오빠!
+CHAT_TEXT:김기현: 안녕 쏘야!!
+CHAT_TEXT:김소진: 오늘 머해?
+CHAT_TEXT:김소진: 안녕 오빠!!
+CHAT_TEXT:김기현: 안녕 쏘양~~
+CHAT_TEXT:김소진: 안녕 오빵아
+CHAT_TEXT:김기현: 안녕 쏘야!!
+CHAT_TEXT:김소진: ㅎㅎㅎㅎ
+CHAT_TEXT:김기현: ㅎㅎㅎㅎㅎㅎㅎㅎㅎ
+CHAT_TEXT:김썽호: ㅎㅇ 쏘진
+CHAT_TEXT:김소진: ㅎㅇ 오빠 ㅎㅎㅎㅎㅎ
+CHAT_TEXT:김썽호: ㅎㅇ
+CHAT_TEXT:김소진: ㅎㅇ
+CHAT_TEXT:김썽호: 나야
+CHAT_TEXT:김소진: 나도
+CHAT_TEXT:김소진: 기현아 안녕
+CHAT_TEXT:김기현: 소진아 안녕
+CHAT_TEXT:김소진: 기현이 당구치러 갔어??
+CHAT_TEXT:김기현: 웅웅 당구장 도착했엉!!
+CHAT_TEXT:김소진: 안녕 기현아
+CHAT_TEXT:김기현: 안녕 쏘야!!
+CHAT_TEXT:김소진: ㅎㅇ
+CHAT_TEXT:김소진: 안뇽
+CHAT_TEXT:김소진: 안뇽 현아!!
+CHAT_TEXT:김기현: 안녕 쏘야!!
+CHAT_TEXT:김소진: 하잉!!
+CHAT_TEXT:김소진: 안녕 오빠!!
+CHAT_TEXT:김기현: 안녕 쏘야!!!!!!
+CHAT_TEXT:김소진: 하잉~~
+CHAT_TEXT:김기현: 하위
+CHAT_TEXT:김소진: 하잉!!
+CHAT_TEXT:김기현: 하잉~~
+CHAT_TEXT:김소진: 11111
+CHAT_TEXT:김기현: 2222
+CHAT_TEXT:김소진: 오빠 안녕!
+CHAT_TEXT:김기현: 안녕 쏘야~
+CHAT_TEXT:김소진: 하잉!!
+CHAT_TEXT:111: ㅎㅇ
+CHAT_TEXT:22: ㅎㅎㅇㅇ
+CHAT_TEXT:111: ㅎㅎㅎㅎㅎㅎ
+CHAT_TEXT:22: 안뇽!!
+CHAT_TEXT:김소진: 하잉
+CHAT_TEXT:김기현: 하잉 쏘
+CHAT_TEXT:김소진: ㅎㅎㅎ
+CHAT_TEXT:김기현: ㅎㅎ
+CHAT_TEXT:김소진: 11
+CHAT_TEXT:김기현: 22
+CHAT_EMOTICON:김소진:src/images/emoticon2.png
+CHAT_TEXT:11: 22야 ㅎㅇ
+CHAT_TEXT:22: 11아 ㅎㅇ
+CHAT_TEXT:11: 22
+CHAT_TEXT:22: 11
+CHAT_TEXT:11: 22
+CHAT_TEXT:22: 11
+CHAT_TEXT:11: ㅎㅎ
+CHAT_TEXT:22: ㅎ
+CHAT_TEXT:11: 안뇽
+CHAT_TEXT:22: 안
+CHAT_TEXT:11: 22야 ㅎㅇ
+CHAT_TEXT:22: 11아 ㅎㅇ
+CHAT_TEXT:11: ㅎㅎ
+CHAT_TEXT:22: ㅎ
+CHAT_EMOTICON:11:src/images/emoticon1.png
+CHAT_TEXT:1: 22
+CHAT_TEXT:22: 11
+CHAT_TEXT:1: g
+CHAT_EMOTICON:1:src/images/emoticon1.png
+CHAT_TEXT:1: `
+CHAT_TEXT:1: 666
+CHAT_TEXT:ㄱㄱ: ㅎㅎ
+CHAT_TEXT:ㄴㄴ: ㅎㅎㅎㅎㅎㅎ
